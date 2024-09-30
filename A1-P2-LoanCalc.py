@@ -1,6 +1,10 @@
 #Program 2 – Weekly Loan Calculator
 #Develop a short term loan calculator program as a console application 
 
+#Student Name: Andrew Beaver
+#Program Title: Loan calculator
+#Description:  Assignment 1 Part 2
+
 def main():
     # YOUR CODE STARTS HERE, each line must be indented (one tab)
 
