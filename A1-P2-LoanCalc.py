@@ -20,7 +20,7 @@ def main():
     #Prompt user for the number of years
     loanYears = float(input("Enter the number of years: "))
 
-    #Math to calculate the weekly payments
+    #Math to calculate weekly payments
     periodicInterestRate = interestRate / 5200
 
     weeklyPayment = (periodicInterestRate / (1-(1 + periodicInterestRate)**-(52 * loanYears))) * loanAmount
